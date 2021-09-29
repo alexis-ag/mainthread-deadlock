@@ -1,0 +1,4 @@
+# mainthread-deadlock, illustrates how:
+- the main thread comes to deadlock
+- gif image still animates after deadlock
+- main thread freezes after putting sync task to another queue
